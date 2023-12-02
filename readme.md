@@ -12,7 +12,8 @@
 ### ✍️Random Dev Quote
 Trăm vạn vì sao không bằng ánh sáng ban ngày
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="[https://random-memer.herokuapp.com](https://s.memehay.com/files/posts/20201016/phai-biet-cui-dau-truoc-dua-ngu-moi-la-quan-tu-tu-ma-y-1031cb0a687695ee15053530bee10671.jpg)/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tranvuhiephus&icon=0&color=0)](https://visitcount.itsvg.in)
