@@ -2,7 +2,8 @@
 <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg" alt="Hey "/>
 
 
-
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 
 ## 🌐Socials
